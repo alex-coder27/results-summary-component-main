@@ -161,7 +161,8 @@
 .attribution {
   margin-top: 3rem;
   font-size: 1.1rem;
-  text-align: center; 
+  text-align: center;
+  margin-top: 3rem;
 }
 
 .attribution a {
