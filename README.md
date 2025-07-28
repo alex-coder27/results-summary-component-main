@@ -54,7 +54,7 @@ Siga estas etapas para configurar e executar o projeto localmente:
 
 1.  **Clone o repositório (se estiver em um):**
     ```bash
-    git clone URLhttps://github.com/alex-coder27/results-summary-component-main.git
+    git clone https://github.com/alex-coder27/results-summary-component-main.git
     ```
 2.  **Navegue até a pasta do projeto:**
     ```bash
