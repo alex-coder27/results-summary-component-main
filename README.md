@@ -25,8 +25,10 @@ O desafio consistiu em construir o componente para que ele:
 ### Screenshot
 
 * **Desktop Design:**
+
     ![Desktop Design](./design/desktop-design-captura.png)
 * **Mobile Design:**
+
     ![Mobile Design](./design/mobile-design-captura.png)
 
 ## Tecnologias Utilizadas
