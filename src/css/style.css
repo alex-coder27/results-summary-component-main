@@ -5,6 +5,7 @@
   border-radius: 3rem;
   box-shadow: 0 1rem 4rem var(--color-gradient-shadow);
   background-color: var(--color-id-neutral-1);
+  margin-block-end: 3rem;
 }
 
 .result-section {
@@ -160,4 +161,15 @@
 .continue-button:hover,
 .continue-button:focus {
   background: var(--gradient-main-background);
+}
+
+.attribution {
+  font-size: 1.4rem;
+  text-align: center;
+  margin-block-start: 3rem;
+}
+
+.attribution a {
+  color: var(--color-id-primary-4);
+  text-decoration: underline;
 }
