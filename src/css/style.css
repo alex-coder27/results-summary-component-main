@@ -1,5 +1,4 @@
 .container {
-  margin-block-end: 3rem;
   display: flex;
   width: 73.5rem;
   height: 51.2rem;
@@ -161,16 +160,4 @@
 .continue-button:hover,
 .continue-button:focus {
   background: var(--gradient-main-background);
-}
-
-
-.attribution {
-  font-size: 1.4rem;
-  text-align: center;
-  margin-block-start: 3rem;
-}
-
-.attribution a {
-  color: var(--color-id-primary-4);
-  text-decoration: underline;
 }
